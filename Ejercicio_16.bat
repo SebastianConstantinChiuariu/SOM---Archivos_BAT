@@ -2,5 +2,5 @@
 start Chrome
 start MicrosoftEdge
 start Notepad
-start LibreOfficeWriter
+start soffice
 start winrar
